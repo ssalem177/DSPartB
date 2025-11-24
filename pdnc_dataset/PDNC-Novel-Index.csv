@@ -1,0 +1,14 @@
+Novel Code,Novel Title,Narrative Person,Narrator Gender (M/F/A/U),Author Code,Translator Code,Format of First Publication,Format of Annotated Novel,Year of First Publication,Year of First English Translation,Original Book Publisher (first English publisher for translations),City of First Publication,Country of First Publication,Genre,Source,Annotators,Folder Name
+ALIC,Alice's Adventures in Wonderland,3,U,CARR,,Book,Book,1865,1865,Macmillan,London,United Kingdom,children,https://www.gutenberg.org/ebooks/928,"Beck, Leah",AlicesAdventuresInWonderland
+ANNE,Anne Of Green Gables,3,U,MONT,,Book,Book,1908,1908,L.C. Page & Company,Boston,United States,children,https://www.gutenberg.org/ebooks/45,"Jovana, Leah",AnneOfGreenGables
+EMMA,Emma,3,A,AUST,,Book,Book,1815,1815,John Murray,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/158,"Bisman, Jovana",Emma
+NOAB,Northanger Abbey,3,A,AUST,,Book,Book,1817,1817,John Murray,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/121,"Alanna, Beck",NorthangerAbbey
+PERS,Persuasion,3,A,AUST,,Book,Book,1817,1817,John Murray,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/105,"Sanghoon, Sol",Persuasion
+PRPR,Pride and Prejudice,3,A,AUST,,Book,Book,1813,1813,Thomas Egerton,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/1342,"Beck, Sanghoon, Leah, Jovana",PrideAndPrejudice
+SESE,Sense and Sensibility,3,A,AUST,,Book,Book,1811,1811,Thomas Egerton,London,United Kingdom,literary,https://www.gutenberg.org/ebooks/161,"Leah, Sofia",SenseAndSensibility
+INNO,The Age of Innocence,3,U,WHAR,,Serial,Book,1920,1920,D. Appleton & Company,New York,United States,literary,https://www.gutenberg.org/ebooks/541,"Sanghoon, Sol",TheAgeOfInnocence
+AWAK,The Awakening,3,U,CHOP,,Book,Book,1899,1899,Herbert S. Stone & Company,"Chicago, New York",United States,literary,https://www.gutenberg.org/ebooks/160,"Bisman, Jovana",TheAwakening
+INVI,The Invisible Man,3,U,WELL,,Serial,Book,1897,1897,C. Arthur Pearson Ltd,London,United Kingdom,scifi,https://www.gutenberg.org/ebooks/5230,"Beck, Leah",TheInvisibleMan
+MWWT,The Man Who Was Thursday,3,U,CHES,,Book,Book,1908,1908,J. W. Arrowsmith Ltd,Bristol,United Kingdom,literary,https://www.gutenberg.org/ebooks/1695,"Alanna, Beck",TheManWhoWasThursday
+DOGR,The Picture Of Dorian Gray,3,U,WILD,,Serial,Book,1890,1891,"Ward, Lock & Co",London,United Kingdom,literary,https://www.gutenberg.org/ebooks/174,"Leah, Sofia",ThePictureOfDorianGray
+FOUR,The Sign of the Four,1,M,DOYL,,Serial,Book,1891,1891,Spencer Blackett,London,United Kingdom,crime,https://www.gutenberg.org/ebooks/2097,"Jovana, Leah",TheSignOfTheFour
