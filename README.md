@@ -4,6 +4,8 @@ There are several code files in the repository that will reproduce all results s
 
 They can be explained by going through three stages; cleaning, quotation attribution and relationship analysis. In general, they have to be followed in chronological order. However, due to excess computational time, all the files have been run and supplied to the folders, so any file can be run at any time. 
 
+The code assumes the root directory is the 'main' folder enclosing all the GitHub files
+
 **Cleaning**
 
   - The 'pdnc_dataset' folder contains all data on the thirteen novels used throughout the project. Each novel has data on the annotated quotations, character info as well as the raw text file of the novel. 
