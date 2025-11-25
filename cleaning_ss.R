@@ -2,7 +2,7 @@
 # Date - Sep 19 2025
 
 # The goal of this code is to aggregate the data-cleaning process, it is a function
-# that reads in a clean file, which is to be used in the Python ML process
+# that reads in a clean file, which is to be used in all stages
 
 ######################### DATA CLEANING OF TXT FILE ###########################
 
